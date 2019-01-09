@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="assigned_group" label="Assigned Group" language="en" table="x_snc_polls_poll">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>assigned_group</element>

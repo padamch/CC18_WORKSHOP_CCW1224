@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_user_role_contains">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
     <sys_user_role_contains action="INSERT_OR_UPDATE">
         <contains display_value="x_snc_polls.poll_user" name="x_snc_polls.poll_user">07b9922a134b1200ed373d62f244b023</contains>
         <role display_value="x_snc_polls.poll_manager" name="x_snc_polls.poll_manager">36a9da2a134b1200ed373d62f244b081</role>
